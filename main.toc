@@ -1,0 +1,20 @@
+\select@language {turkish}
+\contentsline {section}{\numberline {1}Giri\IeC {\c s}}{1}{section.1}
+\contentsline {section}{\numberline {2}QCD(Kuantum Renk Dinami\IeC {\u g}i)}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}D\IeC {\"o}rt Kuvvet}{2}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}QCD Lagranjyeni}{3}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}p p \IeC {\c c}arp\IeC {\i }\IeC {\c s}mas\IeC {\i }}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}QCD i\IeC {\c c}in Feynman kurallar\IeC {\i }}{5}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Asimtotik \IeC {\"O}zg\IeC {\"u}rl\IeC {\"u}k}{6}{subsection.2.5}
+\contentsline {subsection}{\numberline {2.6}QCD'deki Asimptotik \IeC {\"O}zg\IeC {\"u}rl\IeC {\"u}kten Kaynaklanan Zorluklar}{7}{subsection.2.6}
+\contentsline {section}{\numberline {3}CMS (Compact Muon Solenoid)}{8}{section.3}
+\contentsline {subsection}{\numberline {3.1}CMS Dedekt\IeC {\"o}r\IeC {\"u} \IeC {\c S}emas\IeC {\i }}{8}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}CMS Teorik Bilgi}{9}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Kinematik De\IeC {\u g}i\IeC {\c s}kenler}{10}{subsubsection.3.2.1}
+\contentsline {section}{\numberline {4}Monte Carlo Sim\IeC {\"u}lasyonu ve Data \IeC {\"U}retimi}{11}{section.4}
+\contentsline {subsection}{\numberline {4.1}MG5 ve Pythia Program\IeC {\i }nda Olay \IeC {\"U}retimi}{11}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Pythia8'de Hadronizasyon ve Parton Du\IeC {\c s}u}{12}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Jet'lerin Yeniden Yap\IeC {\i }land\IeC {\i }r\IeC {\i }lmas\IeC {\i }}{13}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Jet Algoritmalar\IeC {\i } ($k_t$) ve \textsl {(anti $k_t$)} }{14}{subsection.4.4}
+\contentsline {section}{\numberline {5}Datan\IeC {\i }n Do\IeC {\u g}rulanmas\IeC {\i }}{15}{section.5}
+\contentsline {section}{\numberline {6}Sonu\IeC {\c c}lar}{16}{section.6}

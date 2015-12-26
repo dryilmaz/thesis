@@ -1,0 +1,41 @@
+\documentclass[a4paper,twoside, openodd, final]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[turkish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{etoolbox}
+
+\let\oldincludegraphics\includegraphics
+\renewcommand{\includegraphics}[2][]{%
+  \oldincludegraphics[#1]{#2}%
+  \shorthandon{=}%
+  }
+\pretocmd{\includegraphics}{\shorthandoff{=}}{}{}
+
+\graphicspath{ {images/} }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\usepackage{hyperref}
+\hypersetup{urlcolor=blue, colorlinks=true}
+\thispagestyle{plain}
+\usepackage{pdfpages}
+\usepackage{url} %for proper url entries
+\usepackage{amsmath}
+\numberwithin{equation}{subsection}
+
+\begin{document}
+\include{chapters/firstpage/firstpage}
+\include{chapters/sabit/sabitler}
+\pagenumbering{roman}
+\tableofcontents
+\newpage
+\pagenumbering{arabic}
+\include{chapters/giris/giris}
+\include{chapters/chapter1/bolum1}
+\include{chapters/chapter2/bolum2}
+\include{chapters/chapter3/bolum3}
+\include{chapters/chapter4/bolum4}
+\include{chapters/chapter5/bolum5}
+\include{chapters/kaynaklar/kaynaklar}
+
+\end{document}
