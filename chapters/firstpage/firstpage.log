@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.26)  26 DEC 2015 20:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.11.26)  3 JUN 2016 18:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -131,36 +131,41 @@ Overfull \hbox (21.04146pt too wide) in paragraph at lines 9--10
 Missing character: There is no Å in font cmbx10!
 Missing character: There is no Ÿ in font cmbx10!
 
-Overfull \hbox (35.59705pt too wide) in paragraph at lines 15--15
+Overfull \hbox (35.59705pt too wide) in paragraph at lines 14--14
  []\OT1/cmr/bx/n/10 Durmu 
  []
 
 
-Overfull \hbox (23.80542pt too wide) in paragraph at lines 15--15
+Overfull \hbox (23.80542pt too wide) in paragraph at lines 14--14
  \OT1/cmr/bx/n/10 YIL- 
  []
 
 
-Overfull \hbox (26.63875pt too wide) in paragraph at lines 15--15
+Overfull \hbox (26.63875pt too wide) in paragraph at lines 14--14
  \OT1/cmr/bx/n/10 MAZ 
  []
 
-Missing character: There is no T in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no z in font nullfont!
-Missing character: There is no D in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no Ä in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no Å in font nullfont!
-Missing character: There is no Ÿ in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no Ä in font nullfont!
-Missing character: There is no ± in font nullfont!
-Missing character: There is no : in font nullfont!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no Å in font cmbx10!
+Missing character: There is no Ÿ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+
+Overfull \hbox (17.42352pt too wide) in paragraph at lines 16--16
+ []\OT1/cmr/bx/n/10 Tez 
+ []
+
+
+Overfull \hbox (24.63179pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 Dan- 
+ []
+
+
+Overfull \hbox (24.75679pt too wide) in paragraph at lines 16--16
+ \OT1/cmr/bx/n/10 man: 
+ []
+
 Missing character: There is no Y in font nullfont!
 Missing character: There is no r in font nullfont!
 Missing character: There is no d in font nullfont!
@@ -185,6 +190,58 @@ Missing character: There is no H in font nullfont!
 Missing character: There is no Ä in font nullfont!
 Missing character: There is no ° in font nullfont!
 Missing character: There is no N in font nullfont!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+Missing character: There is no Å in font cmbx10!
+Missing character: There is no Ÿ in font cmbx10!
+Missing character: There is no Ä in font cmbx10!
+Missing character: There is no ± in font cmbx10!
+
+Overfull \hbox (27.7707pt too wide) in paragraph at lines 18--18
+ []\OT1/cmr/bx/n/10 Proje 
+ []
+
+
+Overfull \hbox (24.63179pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 Dan- 
+ []
+
+
+Overfull \hbox (21.56236pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 man 
+ []
+
+Missing character: There is no A in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no Å in font nullfont!
+Missing character: There is no Ÿ in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no G in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no ¶ in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no Z in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no s in font nullfont!
 Missing character: There is no B in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -197,8 +254,8 @@ Missing character: There is no e in font nullfont!
 Missing character: There is no z in font nullfont!
 Missing character: There is no i in font nullfont!
 ! Undefined control sequence.
-l.37 		 \includegraphics
-                        [scale=0.05]{deneme}
+l.39 		\includegraphics
+                       [scale=0.05]{deneme} \\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -260,7 +317,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.40   \end{titlepage}
+l.49   \end{titlepage}
                       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
